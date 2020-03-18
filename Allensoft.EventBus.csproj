@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <RootNamespace>EventBus</RootNamespace>
+    <RootNamespace>Allensoft.EventBus</RootNamespace>
+    <Version>1.0.0</Version>
+    <Author>Gbolahan Allen</Author>
   </PropertyGroup>
 
   <ItemGroup>
